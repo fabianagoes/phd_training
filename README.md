@@ -40,13 +40,13 @@ If you wish to keep a copy of the repo locally
 
 Practical 1 focuses on understanding basics of Natural Language processing --> Tokens and Embeddings.
 
-[Open Practical 1 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part1.ipynb)
+[Open Practical 1 in Colab](https://colab.research.google.com/github/fabianagoes/phd_training/blob/main/Representations_and_ML.ipynb)
 
 ## Practical 2
 
 Practical 2 focuses on understanding how to fine-tuning LLMs for genomic downstream tasks
 
-[Open Practical 2 in Colab](https://colab.research.google.com/github/fabianagoes/bc2_tutorial8/blob/main/BC2_Tutorial_Part2.ipynb)
+[Open Practical 2 in Colab](https://colab.research.google.com/github/fabianagoes/phd_training/blob/main/LLM_Tutorial.ipynb)
 
 ## Resources
 
