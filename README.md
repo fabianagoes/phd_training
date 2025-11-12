@@ -1,15 +1,11 @@
 ## PhD Training 2025 - Tutorial 
 
-This tutorial focuses on learning various ways to represent sequences for machine learning applications. Practical 1 focuses on tokenization for genomic sequences while Practical 2 focuses on fine-tuning LLMs for genomic downstream tasks.
+This tutorial focuses on learning various ways to represent sequences for machine learning applications. Practical 1 focuses on representation for genomic sequences while Practical 2 focuses on fine-tuning LLMs for genomic downstream tasks.
 
 #### Speakers
 - Fabiana Goes, The Rosalind Franklin Institute
 - Aparajita Karmakar, The University of Edinburgh and The Rosalind Franklin Institute
 
-#### Slides
-- Lecture: Introduction to NLP concepts (Tokens & Embeddings) [📁 slides](/slides/Part1_Tokens_Embeddings.pptx)
-- Lecture: Fine-tuning LLMs for genomic downstream tasks [📁 slides](/slides/Part2_Finetuning_LLMs.pdf)
-  
 ## Getting ready
 ### What would you need?
 
@@ -38,7 +34,7 @@ If you wish to keep a copy of the repo locally
 
 ## Practical 1
 
-Practical 1 focuses on understanding basics of Natural Language processing --> Tokens and Embeddings.
+Practical 1 focuses on understanding different ways of representing sequences and using Machine Learning tasks on them
 
 [Open Practical 1 in Colab](https://colab.research.google.com/github/fabianagoes/phd_training/blob/main/Representations_and_ML.ipynb)
 
